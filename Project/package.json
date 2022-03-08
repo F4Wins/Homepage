@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "express": "^4.17.3",
-    "path": "^0.12.7"
+    "fullcalendar": "^5.10.2",
+    "path": "^0.12.7",
+    "xhr2": "^0.2.1"
   }
 }
